@@ -46,7 +46,7 @@ The Microservices Music Metadata Enrichment System is a scalable and resilient a
 
 - Amazon S3: For cloud-based storage.
 
-- Sl4j: For logging.
+- Slf4j: For logging.
 
 - Apache Kafka: For messaging and integration patterns.
 
